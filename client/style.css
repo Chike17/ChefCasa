@@ -1,0 +1,34 @@
+.spacerT10 {
+  margin-top: 10px; 
+}
+.spacerL90 {
+  margin-left: 90px; 
+}
+
+.spacerL10 {
+  margin-left: 10px; 
+}
+.spacerR5 {
+  margin-right: 5px; 
+}
+.spacerL5 {
+  margin-left: 5px; 
+}
+.horizontal {
+  display: inline-block;
+  vertical-align: top;
+}
+
+#menuBuilder {
+	height: 375px;
+  border: 1px solid #cccccc;
+}
+
+#menuViewer {
+	height: 375px;
+  border: 1px solid #cccccc;
+
+.upcomming-event:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
